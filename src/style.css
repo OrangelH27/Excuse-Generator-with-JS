@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  font-weight: 300;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+}
